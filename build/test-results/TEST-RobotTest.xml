@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="3" failures="0" errors="0" timestamp="2017-02-01T07:43:35" hostname="unb-x-anto" time="0.007">
+  <properties/>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.005"/>
+  <testcase name="hasName" classname="RobotTest" time="0.001"/>
+  <testcase name="resetName" classname="RobotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
